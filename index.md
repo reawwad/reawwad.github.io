@@ -25,26 +25,25 @@
   >       * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
   >       * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
   >         on a VMSS level using Kusto query language 
-> * #### (2014-2019) MATH/Substitue Teaching
+> * ##### (2014-2019) MATH/Substitue Teaching
   >      * 2016 - 2019 (Substitue teacher at Lake Washington School district)
   >      * Apr2015-Jun2015 (High school Math teacher- Bellevue Internation school)
   >      * 2014-2015 Teaching Residency Internship as Math & Science Teacher (Madina Academy School-Bellevue WA) 
-> * #### (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
-> * #### (Jun 2007-2011) Career Break
-  > * I took a career break to take care of my young children and help ease the moving transition from Egypt to USA. 
+> * ##### (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
+> * ##### (Jun 2007-2011) Career Break
+  >      * I took a career break to take care of my young children and help ease the moving transition from Egypt to USA. 
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
   >   * Worked in the development of a web-based application for automating the RTM process using Perl.   
   > * Development Engineer, Constraints Editor Systems(CES) Team  
-  >   * Egypt, April 2001-Jan 2003 
+  >   * Egypt, April 2001-Jan 2005 
   >   * Worked on GUI enhancement of GDT(simulation tools). 
   >   * Developed a new JAVA based interface instead of the GTK based interface. 
-
 > * #### Cairo & Alexandria Stock Exchange, Egypt (Dec 1999-April 2001)
   > * Systems Engineer  
-  >   * Participated in building the infrastructure for the stocks trading system using Oracle database stored procedures. 
-
+  >   * Participated in building the infrastructure for the stocks trading system using Oracle database
+  >   * Worked with Oracle DB stored procedures to help convert the data from old trading system to the new system
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
   >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
