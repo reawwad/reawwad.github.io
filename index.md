@@ -12,17 +12,22 @@
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
-  >    * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary 
+  >    * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary service
   >      CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
-  >      machine scale set(VMSS). Scheduled Events is an Azure Metadata service that gives the tenants time to prepare for 
+  >      machine scale set(VMSS); currently the AzPECanary service is deployed in multiple Azure regions. Scheduled Events is 
+  >      an Azure Metadata service that gives the tenants time to prepare for 
   >       virtual machine maintenance(Reboot - Redeploy - Terminate).
   >       * Added VMSS terminate schedule event notification and termination flow of a virtual machine. 
   >       * Added VMSS scaling out flow to increase the number of the virtual machines within
-  >         the VMSS 
+  >         the VMSS
+  >       * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
   >       * Used c# async programming and Powershell script
-  >       * Used Azure Portal- github- Azure storage explorer
-  >       * Added dashboard to monitor the success rate of the initiated terminate maintenance jobs on a VMSS level
-  >        using Kusto sql 
+  >       * Used Azure Portal 
+  >          * github 
+  >          * Azure storage explorer
+  >          * Azure portal - Data Explorer  
+  >       * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
+  >         on a VMSS level using Kusto query language 
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
