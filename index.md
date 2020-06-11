@@ -9,7 +9,6 @@
 > Minor: Business Administration.  
 > * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics and World Language (Arabic), Pacific Lutheran 
 > University(PLU), Tacoma WA, USA, 2015. 
->
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
@@ -48,7 +47,6 @@
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
   >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
->   
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# asyn programming, JAVA, Powershell script  
 > * Working experience in Sql, Kusto ql.  
