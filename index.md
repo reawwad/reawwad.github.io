@@ -25,13 +25,13 @@
   >       * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
   >       * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
   >         on a VMSS level using Kusto query language 
+  >       * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
+  >         to the VMSS scaling capacity.  
 > * ##### (2014-2019) MATH/Substitue Teaching
   >      * 2016 - 2019 (Substitue teacher at Lake Washington School district)
-  >      * Apr2015-Jun2015 (High school Math teacher- Bellevue Internation school)
+  >      * Apr2016-Jun2016 (High school Math teacher- Bellevue Internation school)
   >      * 2014-2015 Teaching Residency Internship as Math & Science Teacher (Madina Academy School-Bellevue WA) 
 > * ##### (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
-> * ##### (Jun 2007-2011) Career Break
-  >      * I took a career break to take care of my young children and help ease the moving transition from Egypt to USA. 
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
@@ -53,10 +53,3 @@
 #### DESIGN AND ANALYSIS SKILLS  
 > * Working experience in extracting system and users requirements.    
 > * Working experience in analytical skills in building object-oriented design.
-#### TEACHING EXPERIENCE 
-> * Part-time Teaching at BSD and LWSD  
->   * Nov 2015-Current  
->   * Bellevue International school as Math Teacher(April 2016-June 2016)
->     * Algebra1, Algebra2 and Graph Theory.
-> * Teaching 6th grade Math and Science at Medina Academy Private School Redmond, WA(April 2013-June 2015). 
-> * Teaching Assistant, Computer Science Dept, AUC, Spring 98.  
