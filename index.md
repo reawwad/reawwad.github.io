@@ -8,7 +8,7 @@
 > * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.  
 > Minor: Business Administration.  
 > * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics and World Language (Arabic), Pacific Lutheran 
-> University(PLU), Tacoma WA, USA, 2015. 
+> University(PLU), Tacoma WA, USA, 2015.
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
@@ -49,7 +49,7 @@
   >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# asyn programming, JAVA, Powershell script  
-> * Working experience in Sql, Kusto ql.
+> * Working experience in Sql, Kql.
 #### DESIGN AND ANALYSIS SKILLS  
 > * Working experience in extracting system and users requirements.    
 > * Working experience in analytical skills in building object-oriented design.
