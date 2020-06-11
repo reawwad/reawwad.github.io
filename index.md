@@ -49,7 +49,7 @@
   >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# asyn programming, JAVA, Powershell script  
-> * Working experience in Sql, Kusto ql.  
+> * Working experience in Sql, Kusto ql.
 #### DESIGN AND ANALYSIS SKILLS  
 > * Working experience in extracting system and users requirements.    
 > * Working experience in analytical skills in building object-oriented design.
