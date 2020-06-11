@@ -3,7 +3,7 @@
 > ##### Email: reham_attallah@hotmail.com 
 #### www.linkedin.com/in/reham-awwad
 #### SUMMARY
->   Focused and quick-learning Software Engineer with experience in java and c#  programming for various projects and clients.
+>   Focused and quick-learning Software Engineer with experience in java and c#  programming design for various projects and clients.
 #### EDUCATION  
 > * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.  
 > Minor: Business Administration.  
