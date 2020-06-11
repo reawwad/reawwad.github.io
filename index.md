@@ -13,7 +13,8 @@
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
   >    * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary 
-  >      CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual machine scale     >      set(VMSS). Scheduled Events is an Azure Metadata service that gives the tenants time to prepare for 
+  >      CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
+  >      machine scale set(VMSS). Scheduled Events is an Azure Metadata service that gives the tenants time to prepare for 
   >       virtual machine maintenance(Reboot - Redeploy - Terminate).
   >       * Added VMSS terminate schedule event notification and termination flow of a virtual machine. 
   >       * Added VMSS scaling out flow to increase the number of the virtual machines within
