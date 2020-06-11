@@ -28,10 +28,10 @@
   >       * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
   >         to the VMSS scaling capacity.  
 > * ##### (2014-2019) MATH/Substitue Teaching
-  >      * 2016 - 2019 (Substitue teacher at Lake Washington School district)
-  >      * Apr2016-Jun2016 (High school Math teacher- Bellevue Internation school)
-  >      * 2014-2015 Teaching Residency Internship as Math & Science Teacher (Madina Academy School-Bellevue WA) 
-> * ##### (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
+  >    *  (2016 - 2019) Substitue teacher at Lake Washington School district
+  >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue Internation school
+  >    *  (2014-2015) Teaching Residency Internship as Math & Science Teacher-Madina Academy School, Bellevue WA 
+  >    *  (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
