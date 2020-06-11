@@ -40,7 +40,15 @@
 
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
-  >   * Participated in the software design and development of an IBM internal project: Translation planning and management system (TPMS) using JAVA.  
+  >   * Participated in the software design and development of an IBM internal project: Translation planning and management system (TPMS) using JAVA.
+#### PROGRAMMING SKILLS 
+> * Developed an experience in c# 
+> * Developed an experience in JAVA. 
+> * Developed an experience in Powershell script.    
+#### DESIGN AND ANALYSIS SKILLS  
+> * Experience in Extracting system and users requirements.    
+> * Experience in analytical skills in building object-oriented design.
+> * Experience in c# async programming  
 #### TEACHING EXPERIENCE 
 > * Part-time Teaching at BSD and LWSD  
 >   * Nov 2015-Current  
@@ -48,11 +56,3 @@
 >     * Algebra1, Algebra2 and Graph Theory.
 > * Teaching 6th grade Math and Science at Medina Academy Private School Redmond, WA(April 2013-June 2015). 
 > * Teaching Assistant, Computer Science Dept, AUC, Spring 98.  
-
-#### PROGRAMMING SKILLS 
-> * Developed a working experience in c# 
-> * Developed a working experience in JAVA. 
-> * Developed a working experience in Powershell script.    
-#### DESIGN AND ANALYSIS SKILLS  
-> * Experience in Extracting system and users requirements.    
-> * Achieved excellent analytical skills in building object-oriented design.  
