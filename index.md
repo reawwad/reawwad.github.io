@@ -47,6 +47,7 @@
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
   >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
+>   
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# asyn programming, JAVA, Powershell script  
 > * Working experience in Sql, Kusto ql.  
