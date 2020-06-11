@@ -22,10 +22,7 @@
   >         the VMSS
   >       * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
   >       * Used c# async programming and Powershell script
-  >       * Used Azure Portal 
-  >          * github 
-  >          * Azure storage explorer
-  >          * Azure portal - Data Explorer  
+  >       * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
   >       * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
   >         on a VMSS level using Kusto query language 
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
