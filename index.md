@@ -26,6 +26,7 @@
   >         on a VMSS level using Kusto query language 
   >       * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
   >         to the VMSS scaling capacity.  
+  >       * Adding UnitTests to terminate SE flow
 > * ##### (2014-2019) MATH/Substitue Teaching
   >    *  (2016 - 2019) Substitue teacher at Lake Washington School district
   >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue Internation school
