@@ -18,8 +18,7 @@
   >      an Azure Metadata service that gives the tenants time to prepare for 
   >       virtual machine maintenance(Reboot - Redeploy - Terminate).
   >       * Added VMSS terminate schedule event notification and termination flow of a virtual machine. 
-  >       * Added VMSS scaling out flow to increase the number of the virtual machines within
-  >         the VMSS
+  >       * Added VMSS scaling out flow to increase the number of the virtual machines within VMSS
   >       * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
   >       * Used c# async programming and Powershell script
   >       * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
@@ -30,8 +29,7 @@
 > * ##### (2014-2019) MATH/Substitue Teaching
   >    *  (2016 - 2019) Substitue teacher at Lake Washington School district
   >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue Internation school
-  >    *  (2014-2015) Teaching Residency Internship as Math & Science Teacher-Madina Academy School, Bellevue WA 
-  >    *  (2011-2014) Working on earning my teaching certificate in Math & World Language from PLU WA   
+  >    *  (2011-2015) Working on earning my teaching certificate in Math & World Language from PLU WA   
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
