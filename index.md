@@ -12,21 +12,21 @@
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
-  >    * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary service
-  >      CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
-  >      machine scale set(VMSS); currently the AzPECanary service is deployed in multiple Azure regions. Scheduled Events is 
-  >      an Azure Metadata service that gives the tenants time to prepare for 
-  >       virtual machine maintenance(Reboot - Redeploy - Terminate).
-  >       * Added VMSS terminate schedule event notification and termination flow of a virtual machine. 
-  >       * Added VMSS scaling out flow to increase the number of the virtual machines within VMSS
-  >       * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
-  >       * Used c# async programming and Powershell script
-  >       * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
-  >       * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
-  >         on a VMSS level using Kusto query language 
-  >       * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
-  >         to the VMSS scaling capacity.  
-  >       * Adding UnitTests to terminate SE flow
+  >   * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary service
+  >     CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
+  >     machine scale set(VMSS); currently the AzPECanary service is deployed in multiple Azure regions. Scheduled Events is 
+  >     an Azure Metadata service that gives the tenants time to prepare for 
+  >     virtual machine maintenance(Reboot - Redeploy - Terminate).
+  >     * Added VMSS terminate schedule event notification and termination flow of a virtual machine. 
+  >     * Added VMSS scaling out flow to increase the number of the virtual machines within VMSS
+  >     * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
+  >     * Used c# async programming and Powershell script
+  >     * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
+  >     * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
+  >       on a VMSS level using Kusto query language 
+  >     * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
+  >       to the VMSS scaling capacity.  
+  >     * Added UnitTests to terminate SE flow
 > * ##### (2014-2019) MATH/Substitue Teaching
   >    *  (2016 - 2019) Substitue teacher at Lake Washington School district
   >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue Internation school
@@ -37,18 +37,16 @@
   >   * Worked in the development of a web-based application for automating the RTM process using Perl.   
   > * Development Engineer, Constraints Editor Systems(CES) Team  
   >   * Egypt, April 2001-Jan 2005 
-  >   * Worked on GUI enhancement of GDT(simulation tools). 
-  >   * Developed a new JAVA based interface instead of the GTK based interface. 
+  >   * Worked on GUI enhancement of GDT(simulation tools) using JAVA. 
 > * #### Cairo & Alexandria Stock Exchange, Egypt (Dec 1999-April 2001)
   > * Systems Engineer  
   >   * Participated in building the infrastructure for the stocks trading system using Oracle database
   >   * Worked with Oracle DB stored procedures to help convert the data from old trading system to the new system
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
-  >   * Participated in the software design and development of an IBM internal project: Translation planning and management system             (TPMS) using JAVA.
+  >   * Participated in the software design and development of an IBM internal project:TPMS using JAVA  
 #### TECHNICAL SKILLS 
-> * Working experience in c#, c# asyn programming, JAVA, Powershell script  
-> * Working experience in Sql, Kql.
+> * Working experience in c#, c# async programming, JAVA, Powershell script, sql  
 #### DESIGN AND ANALYSIS SKILLS  
 > * Working experience in extracting system and users requirements.    
 > * Working experience in analytical skills in building object-oriented design.
