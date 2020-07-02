@@ -5,10 +5,8 @@
 #### SUMMARY
 >   Focused and quick-learning Software Engineer with experience in java and c#  programming design for various projects and clients.
 #### EDUCATION  
-> * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.  
-> Minor: Business Administration.  
-> * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics and World Language (Arabic), Pacific Lutheran 
-> University(PLU), Tacoma WA, USA, 2015.
+> * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998. 
+> * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran University(PLU), Tacoma WA, USA, 2015.
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Jun 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
@@ -23,13 +21,8 @@
   >     * Used c# async programming and Powershell script
   >     * Used Azure Portal- github- Azure storage explorer- Azure Data Explorer.  
   >     * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs 
-  >       on a VMSS level using Kusto query language 
-  >     * Adding the terminate scheduled events flow to the current AzPECanary helped in identifying some issues related
-  >       to the VMSS scaling capacity.  
-> * ##### (2014-2019) MATH/Substitue Teaching
-  >    *  (2016 - 2019) Substitue teacher at Lake Washington School district
-  >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue Internation school
-  >    *  (2011-2015) Working on earning my teaching certificate in Math & World Language from PLU WA   
+  >       on VMSS level using Kusto query language 
+  >     * Helped in identifying some issues related to the VMSS scaling capacity.     
 > * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
   > * Development Engineer, Release to Manufacturing (RTM) team  
   >   * Egypt, March 2005- May 2007 
@@ -44,6 +37,11 @@
 > * #### IBM, Egypt July 1998 - Nov 1999.
   > * Software Engineer  
   >   * Participated in the software design and development of an IBM internal project:TPMS using JAVA  
+  #### TEACHING CAREER EXPERIENCE 
+  > * ##### (2014-2019) MATH/Substitute Teaching
+  >    *  (2016 - 2019) Substitute teacher at Lake Washington School district
+  >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue International school
+  >    *  (2011-2015) Working on earning my teaching certificate in Math & World Language from PLU WA
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# async programming, JAVA, Powershell script, sql  
 #### DESIGN AND ANALYSIS SKILLS  
