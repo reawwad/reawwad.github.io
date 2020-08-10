@@ -10,6 +10,7 @@
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
 > * #### Microsoft, USA (Mar 2020 - Aug 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
+  >   * Currently working on adding AzPECanary to Azure dedicated hosts.
   >   * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary service
   >     CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
   >     machine scale set(VMSS); currently the AzPECanary service is deployed in multiple Azure regions. Scheduled Events is 
