@@ -8,7 +8,7 @@
 > * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998. 
 > * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran University(PLU), Tacoma WA, USA, 2015.
 #### SOFTWARE ENGINEERING CAREER EXPERIENCE 
-> * #### Microsoft, USA (Mar 2020 - Jul 2020)
+> * #### Microsoft, USA (Mar 2020 - Aug 2020)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
   >   * Worked with the MR PolicyEngine team to add the Terminate Scheduled Events flow to the existing AzPECanary service
   >     CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
