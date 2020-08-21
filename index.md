@@ -42,6 +42,3 @@
   >    *  (2011-2015) Working on earning my teaching certificate in Math & World Language from PLU WA
 #### TECHNICAL SKILLS 
 > * Working experience in c#, c# async programming, JAVA, Powershell script, sql  
-#### DESIGN AND ANALYSIS SKILLS  
-> * Working experience in extracting system and users requirements.    
-> * Working experience in analytical skills in building object-oriented design.
