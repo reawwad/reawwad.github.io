@@ -20,20 +20,6 @@
 >     * Working on the deployment of AzPE Canary to dedicated hosts.
 >     * Working with AzSM to force the spanning of dedicated hosts with vmss deployment across FCs.
 
- 
-> * #### Microsoft, USA (Mar 2020 - Now)
-  >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
-  >   * Currently working on deploying AzPE virtual machine scale set Canary to Azure dedicated hosts.
-  >   * Worked with the MR PolicyEngine team to add and validate Terminate Scheduled Events flow to the existing AzPECanary service
-  >     CRP to verify the correctness and integrity of the business model workflow. The AzPECanary represents a virtual
-  >     machine scale set(VMSS); currently the AzPECanary service is deployed in multiple Azure regions. Scheduled Events is 
-  >     an Azure Metadata service that gives the tenants time to prepare for 
-  >     virtual machine maintenance(Reboot - Redeploy - Terminate) 
-  >     * Added VMSS scaling out flow to increase the number of the virtual machines within VMSS
-  >     * Tested the AzPECanary deployment to multiple regions and helped in discovering some bugs.
-  >     * Used c# async programming and Powershell script  
-  >     * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs
-  >     * Helped in identifying some issues related to the VMSS scaling capacity.     
 > * #### Teaching Experience | 2011 - 2019
 >     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
 >     * (Apr 2016 - Jun 2016) High school substitute Math teacher - Bellevue International school.
