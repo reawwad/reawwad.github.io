@@ -38,10 +38,10 @@
 
 #### TECHNICAL SKILLS
   >    *  C#, Async programming, Java, Powershell script, SQL
-  
-#### EDUCATION 
->     * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
->     * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
->       University, WA 2015.
+#### EDUCATION
+  >    *  Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
+  >    *  Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
+  >        University, WA 2015.
+
 #### WORK AUTHORIZATION: US Citizen
 
