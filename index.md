@@ -36,7 +36,7 @@
 > * #### Software Engineer | IBM (Egypt) | July 1998 - November 1999
 >     * Worked in the design and implementation of an IBM internal project (TPMS) using Java
 
-  #### TECHNICAL SKILLS
+#### TECHNICAL SKILLS
   >    *  C#, Async programming, Java, Powershell script, SQL
   
 #### EDUCATION 
