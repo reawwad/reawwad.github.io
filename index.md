@@ -3,11 +3,24 @@
 > ##### Email: reham_attallah@hotmail.com 
 #### www.linkedin.com/in/reham-awwad
 #### SUMMARY
->   Focused and quick-learning Software Engineer with experience in java and c#  programming design for various projects and clients.
-#### EDUCATION  
-> * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998. 
-> * Post baccalaureate Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran University(PLU), Tacoma WA, USA, 2015.
-#### SOFTWARE ENGINEERING CAREER EXPERIENCE 
+>   Software Engineer with experience in the full cycle of software development process including requirements
+>   definition, design, implementation and testing. Having experience in working with distributed systems and
+>   monitoring reliability, performance and engagement metrics.
+
+#### CAREER EXPERIENCE
+> * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – Present
+>   * MR PolicyEngine – AzPE Canary Project
+>     * Added the initiation, validation and verification of delete/terminate maintenance scheduled event
+>       flow to the AzPE Canary virtual machine scale set(vmss) vm instances to verify the reliability and
+        integrity of the workflow.
+>     * Tested the availability and scalability of the AzPE Canary vmss deployment to multiple regions.
+>     * Verified the workflow integrity by adding metrics and dashboard to monitor the Canary initiated
+>       scaling out/in maintenance jobs.
+>   * Currently : MR PolicyEngine – AzPE Canary deployment to dedicated hosts:
+>     * Working on the deployment of AzPE Canary to dedicated hosts.
+>     * Working with AzSM to force the spanning of dedicated hosts with vmss deployment across FCs.
+
+ 
 > * #### Microsoft, USA (Mar 2020 - Now)
   >  * Software Engineer apprentice, Azure Compute, Service LifeCycle COGS
   >   * Currently working on deploying AzPE virtual machine scale set Canary to Azure dedicated hosts.
@@ -21,24 +34,28 @@
   >     * Used c# async programming and Powershell script  
   >     * Added a dashboard to monitor the success rate/errors of the initiated terminate scheduled events maintenance jobs
   >     * Helped in identifying some issues related to the VMSS scaling capacity.     
-> * #### Mentor, A Siemens Business, Egypt(April 2001-May 2007)
-  > * Development Engineer, Release to Manufacturing (RTM) team  
-  >   * Egypt, March 2005- May 2007 
-  >   * Worked in the development of a web-based application for automating the RTM process.   
-  > * Development Engineer, Constraints Editor Systems(CES) Team  
-  >   * Egypt, April 2001-Jan 2005 
-  >   * Worked on GUI enhancement of GDT(simulation tools) using JAVA. 
-> * #### Cairo & Alexandria Stock Exchange, Egypt (Dec 1999-April 2001)
-  > * Systems Engineer  
-  >   * Participated in building the infrastructure for the stocks trading system using Oracle database
-  >   * Worked with Oracle DB stored procedures to help convert the data from old trading system to the new system
-> * #### IBM, Egypt July 1998 - Nov 1999.
-  > * Software Engineer  
-  >   * Participated in the software design and development of an IBM internal project:TPMS using JAVA  
-  #### TEACHING CAREER EXPERIENCE 
-  > * ##### (2014-2019) MATH/Substitute Teaching
-  >    *  (2016 - 2019) Substitute teacher at Lake Washington School district
-  >    *  (Apr2016-Jun2016) High school Math teacher- Bellevue International school
-  >    *  (2011-2015) Working on earning my teaching certificate in Math & World Language from PLU WA
-#### TECHNICAL SKILLS 
-> * Working experience in c#, c# async programming, JAVA, Powershell script, sql  
+> * #### Teaching Experience | 2011 - 2019
+>     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
+>     * (Apr 2016 - Jun 2016) High school substitute Math teacher - Bellevue International school.
+>     * (2016- 2019) Substitute teacher at Lake Washington School district & Bellevue School District.
+
+> * #### Development Engineer | Mentor Graphics (Egypt) | April 2001 - May 2007
+>     * Worked on developing a web application for automating the release to manufacturing process.
+>     * Worked on GUI enhancement of GDT (circuit layout design tool) using Java.
+
+> * #### Systems Engineer | Cairo & Alexandria Stock Exchange- (Egypt) | Dec 1999 - Apr 2001
+>     * Participated in building the infrastructure for the stocks trading system using Oracle DB.
+>     * Worked with Oracle DB stored procedures to convert trading data from old trading system to new system 
+
+> * #### Software Engineer | IBM (Egypt) | July 1998 - November 1999
+>     * Worked in the design and implementation of an IBM internal project (TPMS) using Java
+
+  #### TECHNICAL SKILLS
+  >    *  C#, Async programming, Java, Powershell script, SQL
+  
+#### EDUCATION 
+>     * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
+>     * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
+>       University, WA 2015.
+#### WORK AUTHORIZATION: US Citizen
+
