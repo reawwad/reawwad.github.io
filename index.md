@@ -8,7 +8,7 @@
 >   monitoring reliability, performance and engagement metrics.
 
 #### CAREER EXPERIENCE
-> * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – Present
+> * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * MR PolicyEngine – AzPE Canary Project
 >     * Added the initiation, validation and verification of delete/terminate maintenance scheduled event
 >       flow to the AzPE Canary virtual machine scale set(vmss) vm instances to verify the reliability and
@@ -16,8 +16,8 @@
 >     * Tested the availability and scalability of the AzPE Canary vmss deployment to multiple regions.
 >     * Verified the workflow integrity by adding metrics and dashboard to monitor the Canary initiated
 >       scaling out/in maintenance jobs.
->   * Currently : MR PolicyEngine – AzPE Canary deployment to dedicated hosts:
->     * Working on the deployment of AzPE Canary to dedicated hosts.
+>   * MR PolicyEngine – AzPE Canary vmss deployment to dedicated hosts:
+>     * Working on the deployment of AzPE Canary vmss to dedicated hosts.
 >     * Working with AzSM to force the spanning of dedicated hosts with vmss deployment across FCs.
 
 > * #### Teaching Experience | 2011 - 2019
