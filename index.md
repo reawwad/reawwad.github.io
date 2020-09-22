@@ -1,6 +1,7 @@
 ## Reham Awwad
  
-> ##### Email: reham_attallah@hotmail.com 
+> ##### Email: reham_attallah@hotmail.com
+> ##### Phone Number: 425-974-0430
 #### www.linkedin.com/in/reham-awwad
 #### SUMMARY
 >   Software Engineer with experience in the full cycle of software development process including requirements
@@ -44,4 +45,3 @@
   >    *  Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
   >        University, WA 2015.
 #### WORK AUTHORIZATION: US Citizen
-
