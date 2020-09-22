@@ -5,7 +5,7 @@
 #### SUMMARY
 >   Software Engineer with experience in the full cycle of software development process including requirements
 >   definition, design, implementation and testing. Having experience in working with distributed systems and
->   monitoring reliability, performance and engagement metrics.
+>   monitoring reliability.
 
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
