@@ -10,7 +10,7 @@
 #### EDUCATION
 >  * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
->  University, WA 2015.
+University, WA 2015.
 >  * Work Authorization: US Citizen
 
 #### CAREER EXPERIENCE
