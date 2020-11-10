@@ -11,7 +11,7 @@
 >  *  Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
 >  *  Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
 >  University, WA 2015.
->  * WORK AUTHORIZATION: US Citizen
+>  * Work Authorization: US Citizen
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * MR PolicyEngine – AzPE Canary Project
