@@ -1,7 +1,6 @@
 ## Reham Awwad
  
 > ##### Email: reham_attallah@hotmail.com
-> ##### Phone Number: 425-974-0430
 #### www.linkedin.com/in/reham-awwad
 #### SUMMARY
 >   Software Engineer with experience in the full cycle of software development process including requirements
@@ -11,14 +10,15 @@
 >  * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
 University, WA 2015.
->  * Kal Academy Algorithms and Data Structure bootcamp June 2020  
+>  * Kal Academy Algorithms and Data Structure bootcamp-June 2020  
 >  * Work Authorization: US Citizen
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * Management Role (MR) PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
->   MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
+>   Background:
+>   * MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
     are able to react to upcoming impactful events in Azure, thus providing higher availability.
->   AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
+>   * AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
 
 >     * Added the initiation, validation and verification of delete/terminate maintenance scheduled event
