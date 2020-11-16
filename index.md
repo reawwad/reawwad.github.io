@@ -20,15 +20,11 @@ University, WA 2015.
     are able to react to upcoming impactful events in Azure, thus providing higher availability.
 >   ** AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
->     * Added the initiation, validation and verification of delete/terminate maintenance scheduled event
->       flow to the AzPE Canary virtual machine scale set(vmss) vm instances to verify the reliability and
-        integrity of the workflow.
->     * Tested the availability and scalability of the AzPE Canary vmss deployment to multiple regions.
->     * Verified the workflow integrity by adding metrics and dashboard to monitor the Canary initiated
->       scaling out/in maintenance jobs.
->   * MR PolicyEngine – AzPE Canary vmss deployment to dedicated hosts:
->     * Working on the deployment of AzPE Canary vmss to dedicated hosts.
->     * Working with AzSM to force the spanning of dedicated hosts with vmss deployment across FCs.
+>     * Added the initiation, validation and verification of the terminate scheduled event to the canary flow using c# and powershell.
+>     * Tested the availability and scalability of the AzPE Canary deployment to Azure multiple regions using kusto tables.
+>     * Verified the workflow integrity by graphs based on kusto queries to the team monitoring dashboard to monitor the Canary initiated jobs.
+>     * Helped in initiating the work and identifying scalability issues with the deployment  of Azure set of load balanced virtual machines to Azure dedicated hosts.
+
 
 > * #### Teaching Experience | 2011 - 2019
 >     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
