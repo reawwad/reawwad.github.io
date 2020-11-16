@@ -21,10 +21,9 @@ University, WA 2015.
 >   ** AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
 >     * Added the initiation, validation and verification of the terminate scheduled event to the canary flow using c# and powershell.
->     * Tested the availability and scalability of the AzPE Canary deployment to Azure multiple regions using kusto tables.
->     * Verified the workflow integrity by graphs based on kusto queries to the team monitoring dashboard to monitor the Canary initiated jobs.
->     * Helped in initiating the work and identifying scalability issues with the deployment  of Azure set of load balanced virtual machines to Azure dedicated hosts.
-
+>     * Tested the availability of the AzPE Canary deployment to multiple Azure regions using kusto tables.
+>     * Verified the scheduled events workflow integrity by adding graphs based on kusto queries to the team monitoring dashboard to monitor the Canary initiated maintenance           jobs.
+>     * Helped in initiating the work and identifying scalability issues with the deployment of Azure set of load balanced virtual machines to Azure dedicated hosts.
 
 > * #### Teaching Experience | 2011 - 2019
 >     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
