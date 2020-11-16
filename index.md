@@ -15,10 +15,10 @@ University, WA 2015.
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * Management Role (MR) PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
->   * ###### Background:
+>   * #### Background:
 >   * MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
     are able to react to upcoming impactful events in Azure, thus providing higher availability.
->   ** AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
+>   * AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
 >     * Added the initiation, validation and verification of the terminate scheduled event to the canary flow using c# and powershell.
 >     * Tested the availability of the AzPE Canary deployment to multiple Azure regions using kusto tables.
