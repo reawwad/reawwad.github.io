@@ -11,10 +11,11 @@
 >  * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
 University, WA 2015.
+>  * Kal Academy Algorithms and Data Structure bootcamp June 2020  
 >  * Work Authorization: US Citizen
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
->   * MR PolicyEngine – AzPE Canary Project
+>   * Management Role (MR) PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project
 >     * Added the initiation, validation and verification of delete/terminate maintenance scheduled event
 >       flow to the AzPE Canary virtual machine scale set(vmss) vm instances to verify the reliability and
         integrity of the workflow.
