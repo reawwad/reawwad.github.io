@@ -18,12 +18,12 @@ University, WA 2015.
 >   * #### Background:
 >   * MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
     are able to react to upcoming impactful events in Azure, thus providing higher availability.
->   * AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
+>   * AzPE Canary is an Azure set of load balanced virtual machines (VMSS) that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
->     * Added the initiation, validation and verification of the terminate scheduled event to the canary flow using c# and powershell.
->     * Tested the availability of the AzPE Canary deployment to multiple Azure regions using kusto tables.
->     * Verified the scheduled events workflow integrity by adding graphs based on kusto queries to the team monitoring dashboard to monitor the Canary initiated maintenance           jobs.
->     * Helped in initiating the work and identifying scalability issues with the deployment of Azure set of load balanced virtual machines to Azure dedicated hosts.
+>     * Added the initiation, validation and verification of the terminate scheduled event to the canary VMSS flow using c# and powershell.
+>     * Tested the availability of the canary VMSS deployment to multiple Azure regions using kusto tables.
+>     * Verified the scheduled events workflow integrity by adding graphs based on kusto queries to the team monitoring dashboard to monitor the canary VMSS initiated maintenance jobs.
+>     * Helped in initiating the work and identifying scalability issues with the deployment of canary VMSS to Azure dedicated hosts.
 
 > * #### Teaching Experience | 2011 - 2019
 >     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
