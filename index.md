@@ -16,7 +16,7 @@ University, WA 2015.
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * Management Role (MR) PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
 >   * Background:
->   ** MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
+>   *#### MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
     are able to react to upcoming impactful events in Azure, thus providing higher availability.
 >   ** AzPE Canary is an Azure set of load balanced virtual machines that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
