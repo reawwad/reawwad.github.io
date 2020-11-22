@@ -11,13 +11,9 @@
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
 University, WA 2015.
 >  * Kal Academy Algorithms and Data Structure bootcamp-June 2020  
->  * Work Authorization: US Citizen
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
->   * Management Role (MR) PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
->   * #### Background:
->   * MR team is responsible for ensuring that tenant/customer services that are more sensitive to downtime (VMs or other resources) 
-    are able to react to upcoming impactful events in Azure, thus providing higher availability.
+>   * Worked with MR PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
 >   * AzPE Canary is an Azure set of load balanced virtual machines (VMSS) that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
 >     * Added the initiation, validation and verification of the terminate scheduled event to the canary VMSS flow using c# and powershell.
