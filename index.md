@@ -17,7 +17,7 @@ University, WA 2015.
 >   * AzPE Canary is an Azure set of load balanced virtual machines (VMSS) that continuously initiates maintenance jobs to verify the correctness and response 
     to maintenance scheduled events 
 >     * Added the initiation, validation and verification of the terminate scheduled event to the canary VMSS flow using c# and powershell.
->     * Tested the availability of the canary VMSS deployment to multiple Azure regions using kusto tables.
+>     * Verified the availability of the canary VMSS deployment to multiple Azure regions using kusto tables.
 >     * Verified the scheduled events workflow integrity by adding graphs based on kusto queries to the team monitoring dashboard to monitor the canary VMSS initiated maintenance jobs.
 >     * Helped in initiating the work and identifying scalability issues with the deployment of canary VMSS to Azure dedicated hosts.
 
@@ -38,5 +38,5 @@ University, WA 2015.
 >     * Worked in the design and implementation of an IBM internal project (TPMS) using Java
 
 #### TECHNICAL SKILLS
-  >    *  C#, Azure DevOps, Async programming, Java, Powershell script, SQL
+  >    *  C#, Java, Azure DevOps, Azure Storage Explorer, github, Async programming, Powershell script, SQL
  
