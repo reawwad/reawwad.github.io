@@ -20,7 +20,7 @@ University, WA 2015.
 >     * Added the initiation, validation and verification of the terminate scheduled event to the canary VMSS flow using c# and powershell.
 >     * Verified the availability of the canary VMSS deployment to multiple Azure regions using kusto tables.
 >     * Verified the scheduled events workflow integrity by adding graphs based on kusto queries to the team monitoring dashboard to monitor the canary VMSS initiated maintenance jobs.
->     * Helped in initiating the work and identifying scalability issues with the deployment of canary VMSS to Azure dedicated hosts.
+>     * Helped in initiating the work and identifying scalability issues with the deployment of canary VMSS to Azure dedicated hosts using powershell with REST API calls.
 
 > * #### Teaching Experience | 2011 - 2019
 >     * (2011-2014) Earning teaching certificate in Math & World Language from PLU (WA).
