@@ -39,5 +39,5 @@ University, WA 2015.
 >     * Worked in the design and implementation of an IBM internal project (TPMS) using Java
 
 #### TECHNICAL SKILLS
-  >    *  C#, Java, Azure DevOps, Azure Storage Explorer, github, Async programming, Powershell script, SQL
+  >    *  C#, Java, Azure DevOps, Azure Storage Explorer, github, Async programming, Powershell script, REST API, SQL
  
