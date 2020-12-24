@@ -10,7 +10,7 @@
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
 University, WA 2015.
 >  * Kal Academy Algorithms and Data Structure bootcamp-June 2020  
->  * Coursera Data Staructures & Algorithms course
+>  * Coursera Data Structures & Algorithms course
 #### CAREER EXPERIENCE
 > * #### Software Engineer Microsoft LEAP Azure Compute LifeCycle COGS |Redmond | March 2020 – August 2020
 >   * Worked with MR PolicyEngine – Availability zone Policy Engine (AzPE) Canary Project:
