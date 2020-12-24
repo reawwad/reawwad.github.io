@@ -4,8 +4,7 @@
 #### www.linkedin.com/in/reham-awwad
 #### SUMMARY
 >   Software Engineer with experience in the full cycle of software development process including requirements
->   definition, design, implementation and testing. Having experience in working with distributed systems and
->   monitoring reliability.
+>   definition, design, implementation and testing. Having experience in working with Microsoft Azure cloud computing.
 #### EDUCATION
 >  * Bachelor Degree of Computer Science, the American University in Cairo (AUC), Egypt, 1998.
 >  * Teaching Residency Certificate in Education with endorsements in Mathematics, Pacific Lutheran
